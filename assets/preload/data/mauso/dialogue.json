@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "It's weird how we can survive out here without oxygen, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep boop"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "heh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "Little warrior, do you know about the 'Clone Theory'?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "When a human is born, there are two other beings made at the same time."
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "The 'Cinnminn'..."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "...and the 'Psuedo'."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "They're both defects. Born of a simple error."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "skdoo bep bop boop"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "You're right, we don't have time for this."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "We're here for one thing, and one thing alone."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bap"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "Let's start over."
+		},
+		{
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "simplepsnipsnap",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "simplepsnipsnap",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Are you ready?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep"
+		}
+	]
+}

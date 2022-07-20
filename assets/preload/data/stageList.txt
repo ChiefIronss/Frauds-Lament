@@ -6,4 +6,8 @@ mall
 mallEvil
 school
 schoolEvil
-tank
+forest
+desoforest
+impsynforest
+space
+stormforest

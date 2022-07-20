@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "psnipleft",
+			"boxState": "normal",
+			"expression": "bored left",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psnipleft",
+			"boxState": "normal",
+			"expression": "confused left",
+			"text": "Where the hell am I?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psnipfrown",
+			"boxState": "normal",
+			"expression": "frown",
+			"text": "A rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psnipfrown",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psnipsmile",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psnipsmile",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "A real demon?"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep boop"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "psnipsmile",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "You said something about a rap battle, right?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bop"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "psnipleft",
+			"boxState": "normal",
+			"expression": "smug left",
+			"text": "Alright, if I win, I get the girl."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop"
+		}
+	]
+}
