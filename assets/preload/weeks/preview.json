@@ -1,0 +1,32 @@
+{
+	"storyName": "Burnt Steak",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "space",
+	"weekBefore": "psuedo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Mauso",
+			"stank",
+			[
+				1,
+				30,
+				83
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Mausoleum Preview"
+}

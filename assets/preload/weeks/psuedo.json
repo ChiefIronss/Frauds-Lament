@@ -1,0 +1,41 @@
+{
+	"storyName": "XXII - The Fool",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"psnipmenu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Desolation",
+			"desopsnip",
+			[
+				255,
+				121,
+				5
+			]
+		],
+		[
+			"Impostor Syndrome",
+			"impsynpsnip",
+			[
+				217,
+				190,
+				163
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Fraud's Lament",
+	"hiddenUntilUnlocked": false
+}

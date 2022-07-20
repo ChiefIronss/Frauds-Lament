@@ -1,0 +1,41 @@
+{
+	"storyName": "Balls",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"weekBefore": "preview",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Diokophobia",
+			"snipsnap",
+			[
+				182,
+				222,
+				255
+			]
+		],
+		[
+			"Astraphobia",
+			"impsynpsnip",
+			[
+				50,
+				57,
+				98
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Bonus Songs"
+}
