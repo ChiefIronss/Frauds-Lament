@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				118
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				148,
+				-4
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "duetleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				23
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "duetright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				22
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "duetdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				88
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "duetup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snipsnap",
+	"position": [
+		-50,
+		-250
+	],
+	"healthicon": "sspt",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		167,
+		3
+	],
+	"camera_position": [
+		-20,
+		-50
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.9
+}
