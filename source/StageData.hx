@@ -51,8 +51,16 @@ class StageData {
 					stage = 'school';
 				case 'thorns':
 					stage = 'schoolEvil';
-				case 'ugh' | 'guns' | 'stress':
-					stage = 'tank';
+				case 'desolation':
+				    stage = 'desoforest';
+				case 'impostor-syndrome':
+					stage = 'impsynforest';
+				case 'mauso':
+					stage = 'space';
+				case 'astraphobia':
+					stage = 'stormforest';
+				case 'diokophobia':
+					stage = 'forest';
 				default:
 					stage = 'stage';
 			}
