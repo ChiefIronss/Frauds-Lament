@@ -1,0 +1,63 @@
+{
+	"position": [
+		27,
+		-390
+	],
+	"dialogue_pos": "left",
+	"scale": 0.649999999999999,
+	"image": "PSnipSmile",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "excited"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smug",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "smug"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "unimpressed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "unimpressed"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "neutral"
+		}
+	]
+}

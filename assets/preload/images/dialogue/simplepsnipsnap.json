@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		20,
+		-130
+	],
+	"scale": 1.2,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "simpledialogue"
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "simpleshadowdialogue",
+			"anim": "shadow",
+			"loop_offsets": [
+				0,
+				-1
+			]
+		}
+	],
+	"image": "simplePSnipSnapDialogue"
+}

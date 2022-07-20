@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		35,
+		-390
+	],
+	"scale": 0.649999999999999,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "bored left",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bored left",
+			"loop_name": ""
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused left",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "confused left",
+			"loop_name": ""
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "smug left",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "smug left",
+			"loop_name": ""
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "unimpressed left",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "unimpressed left",
+			"loop_name": ""
+		}
+	],
+	"image": "PSnipLeft"
+}

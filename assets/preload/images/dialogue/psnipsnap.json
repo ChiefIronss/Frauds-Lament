@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-193,
+		-510
+	],
+	"scale": 0.699999999999999,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialogue",
+			"anim": "smile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "shadowdialogue",
+			"anim": "shadow",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "PsuedoSnipSnapDialogue"
+}

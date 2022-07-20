@@ -1,0 +1,50 @@
+{
+	"position": [
+		30,
+		-390
+	],
+	"dialogue_pos": "left",
+	"scale": 0.649999999999999,
+	"image": "PSnipFrown",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bored",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "bored"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "confused"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "frown",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "frown"
+		}
+	]
+}

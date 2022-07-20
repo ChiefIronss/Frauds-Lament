@@ -1,0 +1,37 @@
+{
+	"position": [
+		15,
+		-390
+	],
+	"dialogue_pos": "left",
+	"scale": 0.649999999999999,
+	"image": "PSnipRed",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "excited red",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "excited red",
+			"loop_name": ""
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral red",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "neutral red",
+			"loop_name": ""
+		}
+	]
+}

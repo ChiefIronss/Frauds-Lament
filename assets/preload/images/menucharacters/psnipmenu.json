@@ -1,0 +1,11 @@
+{
+	"idle_anim": "MenuIdle",
+	"image": "psnipmenu",
+	"position": [
+		70,
+		296
+	],
+	"flipX": false,
+	"scale": 0.4,
+	"confirm_anim": "M Dad Idle"
+}
