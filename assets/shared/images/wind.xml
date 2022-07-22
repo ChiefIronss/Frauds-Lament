@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wind.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wind0000" x="0" y="0" width="2585" height="573" frameX="0" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0001" x="2585" y="0" width="2584" height="573" frameX="-298" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0002" x="5169" y="0" width="2585" height="573" frameX="-573" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0003" x="0" y="573" width="2585" height="573" frameX="-837" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0004" x="5169" y="0" width="2585" height="573" frameX="-1069" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0005" x="5169" y="0" width="2585" height="573" frameX="-1302" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0006" x="2585" y="573" width="2585" height="573" frameX="-1579" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0007" x="0" y="573" width="2585" height="573" frameX="-1846" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0008" x="2585" y="573" width="2585" height="573" frameX="-2129" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0009" x="5170" y="573" width="2585" height="573" frameX="-2397" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0010" x="0" y="573" width="2585" height="573" frameX="-2613" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0011" x="0" y="573" width="2585" height="573" frameX="-2831" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0012" x="2585" y="0" width="2584" height="573" frameX="-3033" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0013" x="0" y="573" width="2585" height="573" frameX="-3230" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0014" x="5170" y="573" width="2585" height="573" frameX="-3440" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0015" x="5170" y="573" width="2585" height="573" frameX="-3640" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0016" x="0" y="1146" width="2586" height="573" frameX="-3849" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0017" x="5170" y="573" width="2585" height="573" frameX="-4059" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0018" x="2586" y="1146" width="2586" height="573" frameX="-4284" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0019" x="2585" y="0" width="2584" height="573" frameX="-4510" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0020" x="5172" y="1146" width="2586" height="573" frameX="-4735" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0021" x="0" y="573" width="2585" height="573" frameX="-4980" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0022" x="0" y="0" width="2585" height="573" frameX="0" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0023" x="2585" y="0" width="2584" height="573" frameX="-298" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0024" x="5169" y="0" width="2585" height="573" frameX="-573" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0025" x="0" y="573" width="2585" height="573" frameX="-837" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0026" x="5169" y="0" width="2585" height="573" frameX="-1069" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0027" x="5169" y="0" width="2585" height="573" frameX="-1302" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0028" x="2585" y="573" width="2585" height="573" frameX="-1579" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0029" x="0" y="573" width="2585" height="573" frameX="-1846" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0030" x="2585" y="573" width="2585" height="573" frameX="-2129" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0031" x="5170" y="573" width="2585" height="573" frameX="-2397" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0032" x="0" y="573" width="2585" height="573" frameX="-2613" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0033" x="0" y="573" width="2585" height="573" frameX="-2831" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0034" x="2585" y="0" width="2584" height="573" frameX="-3033" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0035" x="0" y="573" width="2585" height="573" frameX="-3230" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0036" x="5170" y="573" width="2585" height="573" frameX="-3440" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0037" x="5170" y="573" width="2585" height="573" frameX="-3640" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0038" x="0" y="1146" width="2586" height="573" frameX="-3849" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0039" x="5170" y="573" width="2585" height="573" frameX="-4059" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0040" x="2586" y="1146" width="2586" height="573" frameX="-4284" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0041" x="2585" y="0" width="2584" height="573" frameX="-4510" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0042" x="5172" y="1146" width="2586" height="573" frameX="-4735" frameY="0" frameWidth="7565" frameHeight="573"/>
+	<SubTexture name="wind0043" x="0" y="573" width="2585" height="573" frameX="-4980" frameY="0" frameWidth="7565" frameHeight="573"/>
+</TextureAtlas>

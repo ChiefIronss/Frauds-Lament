@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="HURTnoteSplashes.png">
-	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+<TextureAtlas imagePath="HURTNOTE_splashes.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="note splash blue 10000" x="5" y="5" width="273" height="199" frameX="-42" frameY="-73" frameWidth="349" frameHeight="255"/>
 	<SubTexture name="note splash blue 10001" x="283" y="5" width="240" height="199" frameX="-49" frameY="-63" frameWidth="349" frameHeight="255"/>

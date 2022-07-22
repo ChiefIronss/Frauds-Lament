@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fireback.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fire in da back0000" x="0" y="0" width="5071" height="815" frameX="0" frameY="-20" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0001" x="0" y="0" width="5071" height="815" frameX="-31" frameY="-19" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0002" x="0" y="0" width="5071" height="815" frameX="-62" frameY="-19" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0003" x="0" y="0" width="5071" height="815" frameX="-93" frameY="-18" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0004" x="0" y="0" width="5071" height="815" frameX="-124" frameY="-18" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0005" x="0" y="0" width="5071" height="815" frameX="-156" frameY="-17" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0006" x="0" y="0" width="5071" height="815" frameX="-187" frameY="-17" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0007" x="0" y="0" width="5071" height="815" frameX="-218" frameY="-16" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0008" x="0" y="0" width="5071" height="815" frameX="-249" frameY="-16" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0009" x="0" y="0" width="5071" height="815" frameX="-281" frameY="-15" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0010" x="0" y="0" width="5071" height="815" frameX="-312" frameY="-15" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0011" x="0" y="0" width="5071" height="815" frameX="-343" frameY="-14" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0012" x="0" y="0" width="5071" height="815" frameX="-374" frameY="-14" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0013" x="0" y="0" width="5071" height="815" frameX="-405" frameY="-13" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0014" x="0" y="0" width="5071" height="815" frameX="-437" frameY="-13" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0015" x="0" y="0" width="5071" height="815" frameX="-468" frameY="-12" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0016" x="0" y="0" width="5071" height="815" frameX="-499" frameY="-12" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0017" x="0" y="0" width="5071" height="815" frameX="-530" frameY="-11" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0018" x="0" y="0" width="5071" height="815" frameX="-562" frameY="-11" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0019" x="0" y="0" width="5071" height="815" frameX="-593" frameY="-10" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0020" x="0" y="0" width="5071" height="815" frameX="-624" frameY="-10" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0021" x="0" y="0" width="5071" height="815" frameX="-655" frameY="-9" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0022" x="0" y="0" width="5071" height="815" frameX="-687" frameY="-9" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0023" x="0" y="0" width="5071" height="815" frameX="-718" frameY="-8" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0024" x="0" y="0" width="5071" height="815" frameX="-749" frameY="-8" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0025" x="0" y="0" width="5071" height="815" frameX="-780" frameY="-7" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0026" x="0" y="0" width="5071" height="815" frameX="-811" frameY="-7" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0027" x="0" y="0" width="5071" height="815" frameX="-843" frameY="-6" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0028" x="0" y="0" width="5071" height="815" frameX="-874" frameY="-6" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0029" x="0" y="0" width="5071" height="815" frameX="-905" frameY="-5" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0030" x="0" y="0" width="5071" height="815" frameX="-936" frameY="-5" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0031" x="0" y="0" width="5071" height="815" frameX="-968" frameY="-4" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0032" x="0" y="0" width="5071" height="815" frameX="-999" frameY="-4" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0033" x="0" y="0" width="5071" height="815" frameX="-1030" frameY="-3" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0034" x="0" y="0" width="5071" height="815" frameX="-1061" frameY="-3" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0035" x="0" y="0" width="5071" height="815" frameX="-1092" frameY="-2" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0036" x="0" y="0" width="5071" height="815" frameX="-1124" frameY="-2" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0037" x="0" y="0" width="5071" height="815" frameX="-1155" frameY="-1" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0038" x="0" y="0" width="5071" height="815" frameX="-1186" frameY="-1" frameWidth="6289" frameHeight="835"/>
+	<SubTexture name="fire in da back0039" x="0" y="0" width="5071" height="815" frameX="-1217" frameY="0" frameWidth="6289" frameHeight="835"/>
+</TextureAtlas>

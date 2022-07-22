@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clouds.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stage0000" x="0" y="0" width="5120" height="1400" frameX="0" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0001" x="0" y="0" width="5120" height="1400" frameX="-207" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0002" x="0" y="0" width="5120" height="1400" frameX="-445" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0003" x="0" y="0" width="5120" height="1400" frameX="-701" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0004" x="0" y="0" width="5120" height="1400" frameX="-913" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0005" x="0" y="0" width="5120" height="1400" frameX="-1146" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0006" x="0" y="0" width="5120" height="1400" frameX="-1334" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0007" x="0" y="0" width="5120" height="1400" frameX="-1496" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0008" x="0" y="0" width="5120" height="1400" frameX="-1641" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0009" x="0" y="0" width="5120" height="1400" frameX="-1802" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0010" x="0" y="0" width="5120" height="1400" frameX="-1982" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0011" x="0" y="0" width="5120" height="1400" frameX="-2169" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0012" x="0" y="0" width="5120" height="1400" frameX="-2318" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0013" x="0" y="0" width="5120" height="1400" frameX="-2453" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0014" x="0" y="0" width="5120" height="1400" frameX="-2560" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0015" x="0" y="0" width="5120" height="1400" frameX="-207" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0016" x="0" y="0" width="5120" height="1400" frameX="-445" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0017" x="0" y="0" width="5120" height="1400" frameX="-701" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0018" x="0" y="0" width="5120" height="1400" frameX="-913" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0019" x="0" y="0" width="5120" height="1400" frameX="-1146" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0020" x="0" y="0" width="5120" height="1400" frameX="-1334" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0021" x="0" y="0" width="5120" height="1400" frameX="-1496" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0022" x="0" y="0" width="5120" height="1400" frameX="-1641" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0023" x="0" y="0" width="5120" height="1400" frameX="-1802" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0024" x="0" y="0" width="5120" height="1400" frameX="-1982" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0025" x="0" y="0" width="5120" height="1400" frameX="-2169" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0026" x="0" y="0" width="5120" height="1400" frameX="-2318" frameY="0" frameWidth="7680" frameHeight="1400"/>
+	<SubTexture name="stage0027" x="0" y="0" width="5120" height="1400" frameX="-2453" frameY="0" frameWidth="7680" frameHeight="1400"/>
+</TextureAtlas>
