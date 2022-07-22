@@ -1,0 +1,9 @@
+{
+	"directory": "psuedo",
+	"defaultZoom": 0.8,
+	"isPixelStage": false,
+
+	"boyfriend": [975, -80],
+	"girlfriend": [350, -100],
+	"opponent": [25, -120]
+}
