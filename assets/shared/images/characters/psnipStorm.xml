@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="psnipStorm.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AAAAdown0000" x="4096" y="4648" width="1025" height="1162"/>
+	<SubTexture name="AAAAdown0001" x="5121" y="4648" width="1025" height="1162"/>
+	<SubTexture name="AAAAdown0002" x="6146" y="4648" width="1025" height="1162"/>
+	<SubTexture name="AAAAdown0003" x="0" y="5810" width="1025" height="1162"/>
+	<SubTexture name="AAAAdown0004" x="1025" y="5810" width="1025" height="1162"/>
+	<SubTexture name="AAAAdown0005" x="2050" y="5810" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0000" x="6150" y="0" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0001" x="0" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0002" x="1025" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0003" x="2050" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0004" x="3075" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0005" x="4100" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0006" x="5125" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0007" x="6150" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0008" x="0" y="2324" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0009" x="2050" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0010" x="1025" y="2324" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0011" x="4100" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0012" x="2050" y="2324" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0013" x="3075" y="2324" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0014" x="4100" y="2324" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0015" x="2050" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0016" x="3075" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0017" x="5125" y="2324" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0018" x="6150" y="2324" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0019" x="0" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0020" x="0" y="2324" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0021" x="2050" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0022" x="0" y="3486" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0023" x="4100" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0024" x="1025" y="3486" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0025" x="0" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0026" x="1025" y="1162" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0027" x="2050" y="3486" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0028" x="3075" y="3486" width="1025" height="1162"/>
+	<SubTexture name="AAAAidle0029" x="4100" y="3486" width="1025" height="1162"/>
+	<SubTexture name="AAAAleft0000" x="0" y="0" width="1025" height="1162"/>
+	<SubTexture name="AAAAleft0001" x="1025" y="0" width="1025" height="1162"/>
+	<SubTexture name="AAAAleft0002" x="2050" y="0" width="1025" height="1162"/>
+	<SubTexture name="AAAAleft0003" x="3075" y="0" width="1025" height="1162"/>
+	<SubTexture name="AAAAleft0004" x="4100" y="0" width="1025" height="1162"/>
+	<SubTexture name="AAAAleft0005" x="5125" y="0" width="1025" height="1162"/>
+	<SubTexture name="AAAAright0000" x="3075" y="5810" width="1025" height="1162"/>
+	<SubTexture name="AAAAright0001" x="4100" y="5810" width="1025" height="1162"/>
+	<SubTexture name="AAAAright0002" x="5125" y="5810" width="1025" height="1162"/>
+	<SubTexture name="AAAAright0003" x="6150" y="5810" width="1025" height="1162"/>
+	<SubTexture name="AAAAright0004" x="0" y="6972" width="1025" height="1162"/>
+	<SubTexture name="AAAAright0005" x="1025" y="6972" width="1025" height="1162"/>
+	<SubTexture name="AAAAup0000" x="5125" y="3486" width="1024" height="1162"/>
+	<SubTexture name="AAAAup0001" x="6149" y="3486" width="1024" height="1162"/>
+	<SubTexture name="AAAAup0002" x="0" y="4648" width="1024" height="1162"/>
+	<SubTexture name="AAAAup0003" x="1024" y="4648" width="1024" height="1162"/>
+	<SubTexture name="AAAAup0004" x="2048" y="4648" width="1024" height="1162"/>
+	<SubTexture name="AAAAup0005" x="3072" y="4648" width="1024" height="1162"/>
+</TextureAtlas>

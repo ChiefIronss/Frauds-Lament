@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PSnipSmile.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="excited0000" x="0" y="0" width="530" height="1234" frameX="0" frameY="0" frameWidth="578" frameHeight="1234"/>
+	<SubTexture name="excited0001" x="530" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0002" x="1108" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0003" x="1686" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0004" x="2264" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0005" x="2842" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0006" x="3420" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0007" x="3998" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0008" x="4576" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0009" x="5154" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0010" x="5732" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0011" x="5732" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0012" x="5732" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0013" x="5732" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0014" x="5732" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0015" x="6310" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0016" x="5154" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0017" x="6888" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0018" x="4576" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0019" x="7466" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0020" x="3998" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0021" x="0" y="1234" width="578" height="1234"/>
+	<SubTexture name="excited0022" x="3420" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0023" x="578" y="1234" width="578" height="1234"/>
+	<SubTexture name="excited0024" x="2842" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0025" x="1156" y="1234" width="578" height="1234"/>
+	<SubTexture name="excited0026" x="2264" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0027" x="1734" y="1234" width="578" height="1234"/>
+	<SubTexture name="excited0028" x="1686" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0029" x="2312" y="1234" width="578" height="1234"/>
+	<SubTexture name="excited0030" x="1108" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0031" x="2890" y="1234" width="578" height="1234"/>
+	<SubTexture name="excited0032" x="530" y="0" width="578" height="1234"/>
+	<SubTexture name="excited0033" x="0" y="0" width="530" height="1234" frameX="0" frameY="0" frameWidth="578" frameHeight="1234"/>
+	<SubTexture name="neutral0000" x="3468" y="1234" width="530" height="1234" frameX="0" frameY="0" frameWidth="578" frameHeight="1234"/>
+	<SubTexture name="neutral0001" x="3998" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0002" x="4576" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0003" x="5154" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0004" x="5732" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0005" x="6310" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0006" x="6888" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0007" x="7466" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0008" x="0" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0009" x="578" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0010" x="1156" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0011" x="1156" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0012" x="1156" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0013" x="1156" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0014" x="1156" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0015" x="1734" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0016" x="578" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0017" x="2312" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0018" x="0" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0019" x="2890" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0020" x="7466" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0021" x="3468" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0022" x="6888" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0023" x="4046" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0024" x="6310" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0025" x="4624" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0026" x="5732" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0027" x="5202" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0028" x="5154" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0029" x="5780" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0030" x="4576" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0031" x="6358" y="2468" width="578" height="1234"/>
+	<SubTexture name="neutral0032" x="3998" y="1234" width="578" height="1234"/>
+	<SubTexture name="neutral0033" x="0" y="0" width="530" height="1234" frameX="0" frameY="0" frameWidth="578" frameHeight="1234"/>
+	<SubTexture name="smug0000" x="6936" y="2468" width="529" height="1234" frameX="0" frameY="0" frameWidth="577" frameHeight="1234"/>
+	<SubTexture name="smug0001" x="7465" y="2468" width="577" height="1234"/>
+	<SubTexture name="smug0002" x="0" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0003" x="577" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0004" x="1154" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0005" x="1731" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0006" x="2308" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0007" x="2885" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0008" x="3462" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0009" x="4039" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0010" x="4616" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0011" x="4616" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0012" x="4616" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0013" x="4616" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0014" x="4616" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0015" x="5193" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0016" x="4039" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0017" x="5770" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0018" x="3462" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0019" x="6347" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0020" x="2885" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0021" x="6924" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0022" x="2308" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0023" x="7501" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0024" x="1731" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0025" x="0" y="4936" width="577" height="1234"/>
+	<SubTexture name="smug0026" x="1154" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0027" x="577" y="4936" width="577" height="1234"/>
+	<SubTexture name="smug0028" x="577" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0029" x="1154" y="4936" width="577" height="1234"/>
+	<SubTexture name="smug0030" x="0" y="3702" width="577" height="1234"/>
+	<SubTexture name="smug0031" x="1731" y="4936" width="577" height="1234"/>
+	<SubTexture name="smug0032" x="7465" y="2468" width="577" height="1234"/>
+	<SubTexture name="smug0033" x="6936" y="2468" width="529" height="1234" frameX="0" frameY="0" frameWidth="577" frameHeight="1234"/>
+	<SubTexture name="unimpressed0000" x="2308" y="4936" width="528" height="1235" frameX="0" frameY="0" frameWidth="576" frameHeight="1235"/>
+	<SubTexture name="unimpressed0001" x="2836" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0002" x="3412" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0003" x="3988" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0004" x="4564" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0005" x="5140" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0006" x="5716" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0007" x="6292" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0008" x="6868" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0009" x="7444" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0010" x="0" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0011" x="0" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0012" x="0" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0013" x="0" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0014" x="0" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0015" x="576" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0016" x="7444" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0017" x="1152" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0018" x="6868" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0019" x="1728" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0020" x="6292" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0021" x="2304" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0022" x="5716" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0023" x="2880" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0024" x="5140" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0025" x="3456" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0026" x="4564" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0027" x="4032" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0028" x="3988" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0029" x="4608" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0030" x="3412" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0031" x="5184" y="6171" width="576" height="1235"/>
+	<SubTexture name="unimpressed0032" x="2836" y="4936" width="576" height="1235"/>
+	<SubTexture name="unimpressed0033" x="2308" y="4936" width="528" height="1235" frameX="0" frameY="0" frameWidth="576" frameHeight="1235"/>
+</TextureAtlas>

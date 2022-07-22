@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PSnipFrown.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bored0000" x="0" y="0" width="530" height="1235" frameX="0" frameY="0" frameWidth="578" frameHeight="1235"/>
+	<SubTexture name="bored0001" x="530" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0002" x="1108" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0003" x="1686" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0004" x="2264" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0005" x="2842" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0006" x="3420" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0007" x="3998" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0008" x="4576" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0009" x="5154" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0010" x="5732" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0011" x="5732" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0012" x="5732" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0013" x="5732" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0014" x="5732" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0015" x="6310" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0016" x="5154" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0017" x="6888" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0018" x="4576" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0019" x="7466" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0020" x="3998" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0021" x="0" y="1235" width="578" height="1235"/>
+	<SubTexture name="bored0022" x="3420" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0023" x="578" y="1235" width="578" height="1235"/>
+	<SubTexture name="bored0024" x="2842" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0025" x="1156" y="1235" width="578" height="1235"/>
+	<SubTexture name="bored0026" x="2264" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0027" x="1734" y="1235" width="578" height="1235"/>
+	<SubTexture name="bored0028" x="1686" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0029" x="2312" y="1235" width="578" height="1235"/>
+	<SubTexture name="bored0030" x="1108" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0031" x="2890" y="1235" width="578" height="1235"/>
+	<SubTexture name="bored0032" x="530" y="0" width="578" height="1235"/>
+	<SubTexture name="bored0033" x="0" y="0" width="530" height="1235" frameX="0" frameY="0" frameWidth="578" frameHeight="1235"/>
+	<SubTexture name="confused0000" x="3468" y="1235" width="531" height="1234" frameX="0" frameY="0" frameWidth="579" frameHeight="1234"/>
+	<SubTexture name="confused0001" x="3999" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0002" x="4578" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0003" x="5157" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0004" x="5736" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0005" x="6315" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0006" x="6894" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0007" x="7473" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0008" x="0" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0009" x="579" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0010" x="1158" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0011" x="1158" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0012" x="1158" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0013" x="1158" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0014" x="1158" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0015" x="1737" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0016" x="579" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0017" x="2316" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0018" x="0" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0019" x="2895" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0020" x="7473" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0021" x="3474" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0022" x="6894" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0023" x="4053" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0024" x="6315" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0025" x="4632" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0026" x="5736" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0027" x="5211" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0028" x="5157" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0029" x="5790" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0030" x="4578" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0031" x="6369" y="2470" width="579" height="1234"/>
+	<SubTexture name="confused0032" x="3999" y="1235" width="579" height="1234"/>
+	<SubTexture name="confused0033" x="3468" y="1235" width="531" height="1234" frameX="0" frameY="0" frameWidth="579" frameHeight="1234"/>
+	<SubTexture name="frown0000" x="6948" y="2470" width="530" height="1234" frameX="0" frameY="0" frameWidth="578" frameHeight="1234"/>
+	<SubTexture name="frown0001" x="7478" y="2470" width="578" height="1234"/>
+	<SubTexture name="frown0002" x="0" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0003" x="578" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0004" x="1156" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0005" x="1734" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0006" x="2312" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0007" x="2890" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0008" x="3468" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0009" x="4046" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0010" x="4624" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0011" x="4624" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0012" x="4624" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0013" x="4624" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0014" x="4624" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0015" x="5202" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0016" x="4046" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0017" x="5780" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0018" x="3468" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0019" x="6358" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0020" x="2890" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0021" x="6936" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0022" x="2312" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0023" x="7514" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0024" x="1734" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0025" x="0" y="4938" width="578" height="1234"/>
+	<SubTexture name="frown0026" x="1156" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0027" x="578" y="4938" width="578" height="1234"/>
+	<SubTexture name="frown0028" x="578" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0029" x="1156" y="4938" width="578" height="1234"/>
+	<SubTexture name="frown0030" x="0" y="3704" width="578" height="1234"/>
+	<SubTexture name="frown0031" x="1734" y="4938" width="578" height="1234"/>
+	<SubTexture name="frown0032" x="7478" y="2470" width="578" height="1234"/>
+	<SubTexture name="frown0033" x="6948" y="2470" width="530" height="1234" frameX="0" frameY="0" frameWidth="578" frameHeight="1234"/>
+</TextureAtlas>

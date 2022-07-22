@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PSnipRed.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="excited red0000" x="0" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0001" x="624" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0002" x="1248" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0003" x="1872" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0004" x="2496" y="0" width="625" height="1234"/>
+	<SubTexture name="excited red0005" x="624" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0006" x="1248" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0007" x="1872" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0008" x="2496" y="0" width="625" height="1234"/>
+	<SubTexture name="excited red0009" x="624" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0010" x="1248" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0011" x="1872" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0012" x="2496" y="0" width="625" height="1234"/>
+	<SubTexture name="excited red0013" x="624" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0014" x="1248" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0015" x="1872" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0016" x="0" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0017" x="624" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0018" x="1248" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0019" x="1872" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0020" x="2496" y="0" width="625" height="1234"/>
+	<SubTexture name="excited red0021" x="624" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0022" x="1248" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0023" x="1872" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0024" x="2496" y="0" width="625" height="1234"/>
+	<SubTexture name="excited red0025" x="624" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0026" x="1248" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0027" x="1872" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0028" x="2496" y="0" width="625" height="1234"/>
+	<SubTexture name="excited red0029" x="624" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0030" x="1248" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="excited red0031" x="1872" y="0" width="624" height="1234" frameX="0" frameY="0" frameWidth="625" frameHeight="1234"/>
+	<SubTexture name="neutral red0000" x="3121" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0001" x="3747" y="0" width="625" height="1234" frameX="0" frameY="0" frameWidth="626" frameHeight="1234"/>
+	<SubTexture name="neutral red0002" x="4372" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0003" x="4998" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0004" x="5624" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0005" x="3747" y="0" width="625" height="1234" frameX="0" frameY="0" frameWidth="626" frameHeight="1234"/>
+	<SubTexture name="neutral red0006" x="4372" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0007" x="4998" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0008" x="5624" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0009" x="3747" y="0" width="625" height="1234" frameX="0" frameY="0" frameWidth="626" frameHeight="1234"/>
+	<SubTexture name="neutral red0010" x="4372" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0011" x="4998" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0012" x="5624" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0013" x="3747" y="0" width="625" height="1234" frameX="0" frameY="0" frameWidth="626" frameHeight="1234"/>
+	<SubTexture name="neutral red0014" x="4372" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0015" x="4998" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0016" x="3121" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0017" x="3747" y="0" width="625" height="1234" frameX="0" frameY="0" frameWidth="626" frameHeight="1234"/>
+	<SubTexture name="neutral red0018" x="4372" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0019" x="4998" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0020" x="5624" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0021" x="3747" y="0" width="625" height="1234" frameX="0" frameY="0" frameWidth="626" frameHeight="1234"/>
+	<SubTexture name="neutral red0022" x="4372" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0023" x="4998" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0024" x="5624" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0025" x="3747" y="0" width="625" height="1234" frameX="0" frameY="0" frameWidth="626" frameHeight="1234"/>
+	<SubTexture name="neutral red0026" x="4372" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0027" x="4998" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0028" x="5624" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0029" x="3747" y="0" width="625" height="1234" frameX="0" frameY="0" frameWidth="626" frameHeight="1234"/>
+	<SubTexture name="neutral red0030" x="4372" y="0" width="626" height="1234"/>
+	<SubTexture name="neutral red0031" x="4998" y="0" width="626" height="1234"/>
+</TextureAtlas>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PSnipLeft.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bored left0000" x="0" y="0" width="530" height="1235" frameX="0" frameY="0" frameWidth="553" frameHeight="1235"/>
+	<SubTexture name="bored left0001" x="530" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0002" x="1083" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0003" x="1636" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0004" x="2189" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0005" x="2742" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0006" x="3295" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0007" x="3848" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0008" x="4401" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0009" x="4954" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0010" x="5507" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0011" x="5507" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0012" x="5507" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0013" x="5507" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0014" x="5507" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0015" x="6060" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0016" x="4954" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0017" x="6613" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0018" x="4401" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0019" x="7166" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0020" x="3848" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0021" x="0" y="1235" width="553" height="1235"/>
+	<SubTexture name="bored left0022" x="3295" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0023" x="553" y="1235" width="553" height="1235"/>
+	<SubTexture name="bored left0024" x="2742" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0025" x="1106" y="1235" width="553" height="1235"/>
+	<SubTexture name="bored left0026" x="2189" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0027" x="1659" y="1235" width="553" height="1235"/>
+	<SubTexture name="bored left0028" x="1636" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0029" x="2212" y="1235" width="553" height="1235"/>
+	<SubTexture name="bored left0030" x="1083" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0031" x="2765" y="1235" width="553" height="1235"/>
+	<SubTexture name="bored left0032" x="530" y="0" width="553" height="1235"/>
+	<SubTexture name="bored left0033" x="0" y="0" width="530" height="1235" frameX="0" frameY="0" frameWidth="553" frameHeight="1235"/>
+	<SubTexture name="confused left0000" x="3318" y="1235" width="531" height="1234" frameX="0" frameY="0" frameWidth="554" frameHeight="1234"/>
+	<SubTexture name="confused left0001" x="3849" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0002" x="4403" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0003" x="4957" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0004" x="5511" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0005" x="6065" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0006" x="6619" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0007" x="7173" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0008" x="0" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0009" x="554" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0010" x="1108" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0011" x="1108" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0012" x="1108" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0013" x="1108" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0014" x="1108" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0015" x="1662" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0016" x="554" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0017" x="2216" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0018" x="0" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0019" x="2770" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0020" x="7173" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0021" x="3324" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0022" x="6619" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0023" x="3878" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0024" x="6065" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0025" x="4432" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0026" x="5511" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0027" x="4986" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0028" x="4957" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0029" x="5540" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0030" x="4403" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0031" x="6094" y="2470" width="554" height="1234"/>
+	<SubTexture name="confused left0032" x="3849" y="1235" width="554" height="1234"/>
+	<SubTexture name="confused left0033" x="3318" y="1235" width="531" height="1234" frameX="0" frameY="0" frameWidth="554" frameHeight="1234"/>
+	<SubTexture name="smug left0000" x="6648" y="2470" width="529" height="1234" frameX="0" frameY="0" frameWidth="553" frameHeight="1234"/>
+	<SubTexture name="smug left0001" x="7177" y="2470" width="553" height="1234"/>
+	<SubTexture name="smug left0002" x="0" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0003" x="553" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0004" x="1106" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0005" x="1659" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0006" x="2212" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0007" x="2765" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0008" x="3318" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0009" x="3871" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0010" x="4424" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0011" x="4424" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0012" x="4424" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0013" x="4424" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0014" x="4424" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0015" x="4977" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0016" x="3871" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0017" x="5530" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0018" x="3318" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0019" x="6083" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0020" x="2765" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0021" x="6636" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0022" x="2212" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0023" x="7189" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0024" x="1659" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0025" x="0" y="4938" width="553" height="1234"/>
+	<SubTexture name="smug left0026" x="1106" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0027" x="553" y="4938" width="553" height="1234"/>
+	<SubTexture name="smug left0028" x="553" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0029" x="1106" y="4938" width="553" height="1234"/>
+	<SubTexture name="smug left0030" x="0" y="3704" width="553" height="1234"/>
+	<SubTexture name="smug left0031" x="1659" y="4938" width="553" height="1234"/>
+	<SubTexture name="smug left0032" x="7177" y="2470" width="553" height="1234"/>
+	<SubTexture name="smug left0033" x="6648" y="2470" width="529" height="1234" frameX="0" frameY="0" frameWidth="553" frameHeight="1234"/>
+	<SubTexture name="unimpressed left0000" x="2212" y="4938" width="528" height="1235" frameX="0" frameY="0" frameWidth="551" frameHeight="1235"/>
+	<SubTexture name="unimpressed left0001" x="2740" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0002" x="3291" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0003" x="3842" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0004" x="4393" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0005" x="4944" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0006" x="5495" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0007" x="6046" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0008" x="6597" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0009" x="7148" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0010" x="0" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0011" x="0" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0012" x="0" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0013" x="0" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0014" x="0" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0015" x="551" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0016" x="7148" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0017" x="1102" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0018" x="6597" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0019" x="1653" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0020" x="6046" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0021" x="2204" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0022" x="5495" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0023" x="2755" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0024" x="4944" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0025" x="3306" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0026" x="4393" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0027" x="3857" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0028" x="3842" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0029" x="4408" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0030" x="3291" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0031" x="4959" y="6173" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0032" x="2740" y="4938" width="551" height="1235"/>
+	<SubTexture name="unimpressed left0033" x="2212" y="4938" width="528" height="1235" frameX="0" frameY="0" frameWidth="551" frameHeight="1235"/>
+</TextureAtlas>
