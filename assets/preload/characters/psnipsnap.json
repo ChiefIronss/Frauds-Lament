@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "stank idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				215,
+				-117
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "stank left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				-260
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "stank down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "stank up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-88
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "stank right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stankPSnipSnap",
+	"position": [
+		-110,
+		-380
+	],
+	"healthicon": "stank",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		146,
+		65
+	],
+	"camera_position": [
+		0,
+		180
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.8
+}
