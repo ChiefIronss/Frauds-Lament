@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ImpSynPSnip.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ImpSynDown0000" x="0" y="0" width="1390" height="2307" frameX="0" frameY="-1" frameWidth="1390" frameHeight="2308"/>
+	<SubTexture name="ImpSynDown0001" x="0" y="0" width="1390" height="2307" frameX="0" frameY="-1" frameWidth="1390" frameHeight="2308"/>
+	<SubTexture name="ImpSynDown0002" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0003" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0004" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0005" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0006" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0007" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0008" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0009" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0010" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0011" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0012" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0013" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0014" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0015" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynDown0016" x="1390" y="0" width="1390" height="2308"/>
+	<SubTexture name="ImpSynIdle0000" x="2780" y="0" width="1272" height="2320" frameX="0" frameY="-18" frameWidth="1272" frameHeight="2338"/>
+	<SubTexture name="ImpSynIdle0001" x="2780" y="0" width="1272" height="2320" frameX="0" frameY="-18" frameWidth="1272" frameHeight="2338"/>
+	<SubTexture name="ImpSynIdle0002" x="4052" y="0" width="1272" height="2325" frameX="0" frameY="-13" frameWidth="1272" frameHeight="2338"/>
+	<SubTexture name="ImpSynIdle0003" x="5324" y="0" width="1272" height="2328" frameX="0" frameY="-10" frameWidth="1272" frameHeight="2338"/>
+	<SubTexture name="ImpSynIdle0004" x="6596" y="0" width="1272" height="2338"/>
+	<SubTexture name="ImpSynIdle0005" x="0" y="2338" width="1272" height="2333" frameX="0" frameY="-5" frameWidth="1272" frameHeight="2338"/>
+	<SubTexture name="ImpSynIdle0006" x="1272" y="2338" width="1272" height="2325" frameX="0" frameY="-13" frameWidth="1272" frameHeight="2338"/>
+	<SubTexture name="ImpSynIdle0007" x="2544" y="2338" width="1272" height="2320" frameX="0" frameY="-18" frameWidth="1272" frameHeight="2338"/>
+	<SubTexture name="ImpSynIdle0008" x="3816" y="2338" width="1272" height="2320" frameX="0" frameY="-18" frameWidth="1272" frameHeight="2338"/>
+	<SubTexture name="ImpSynIdle0009" x="3816" y="2338" width="1272" height="2320" frameX="0" frameY="-18" frameWidth="1272" frameHeight="2338"/>
+	<SubTexture name="ImpSynIdle0010" x="3816" y="2338" width="1272" height="2320" frameX="0" frameY="-18" frameWidth="1272" frameHeight="2338"/>
+	<SubTexture name="ImpSynLeft0000" x="5088" y="2338" width="1283" height="2347"/>
+	<SubTexture name="ImpSynLeft0001" x="5088" y="2338" width="1283" height="2347"/>
+	<SubTexture name="ImpSynLeft0002" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0003" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0004" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0005" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0006" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0007" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0008" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0009" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0010" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0011" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0012" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0013" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0014" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynLeft0015" x="6371" y="2338" width="1283" height="2327" frameX="0" frameY="-20" frameWidth="1283" frameHeight="2347"/>
+	<SubTexture name="ImpSynRight0000" x="0" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0001" x="0" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0002" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0003" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0004" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0005" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0006" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0007" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0008" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0009" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0010" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0011" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0012" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0013" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0014" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0015" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynRight0016" x="1421" y="4685" width="1421" height="2296"/>
+	<SubTexture name="ImpSynUp0000" x="2842" y="4685" width="1272" height="2433"/>
+	<SubTexture name="ImpSynUp0001" x="2842" y="4685" width="1272" height="2433"/>
+	<SubTexture name="ImpSynUp0002" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0003" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0004" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0005" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0006" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0007" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0008" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0009" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0010" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0011" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0012" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0013" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0014" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0015" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+	<SubTexture name="ImpSynUp0016" x="4114" y="4685" width="1272" height="2419" frameX="0" frameY="-14" frameWidth="1272" frameHeight="2433"/>
+</TextureAtlas>
